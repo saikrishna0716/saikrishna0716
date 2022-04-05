@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikrishna0716
 - 👀 I’m interested in Coding and ML
 - 🌱 I’m currently learning about Big data technologies
-- 💞️ I’m looking to collaborate on anything that would help me grow personally and technically
+- 💞️ I’m looking to collaborate on anything that would help us grow personally and technically
 - 📫 How to reach me +1-812-225-3339 or svallur@iu.edu
 
 <!---
